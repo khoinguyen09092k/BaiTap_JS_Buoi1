@@ -10,7 +10,7 @@
 + Đầu Ra : Tiền lương của nhân viên
 */
 var n = 30;
-var luong =  30*100000 ;
+var luong =  n*100000 ;
 console.log("Tiền lương của nhân viên là :" + luong.toLocaleString() + "vnđ"); //.toLocalString()
 
 // BÀI TẬP 2 : Tính giá trị trung bình 
